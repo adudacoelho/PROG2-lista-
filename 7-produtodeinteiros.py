@@ -1,6 +1,1 @@
-def :
 
-
-def main():
-
-main()
